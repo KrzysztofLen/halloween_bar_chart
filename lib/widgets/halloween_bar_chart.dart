@@ -23,6 +23,7 @@ class HalloweenBarChart extends StatelessWidget {
       ScaryStatics(7, 9),
       ScaryStatics(8, 9),
       ScaryStatics(8, 3),
+      ScaryStatics(9, 9),
       ScaryStatics(10, 12),
       ScaryStatics(11, 18),
       ScaryStatics(12, 8),
